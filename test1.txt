@@ -1,0 +1,11 @@
+ Volume in drive C is OS
+ Volume Serial Number is BCDA-A9AC
+
+ Directory of C:\Users\Admin\Desktop\Myproject
+
+03/25/2021  03:40 PM    <DIR>          .
+03/25/2021  03:40 PM    <DIR>          ..
+03/25/2021  03:39 PM                 0 test.txt.txt
+03/25/2021  03:40 PM                 0 test1.txt
+               2 File(s)              0 bytes
+               2 Dir(s)  164,968,800,256 bytes free
