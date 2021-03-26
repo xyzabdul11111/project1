@@ -1,4 +1,20 @@
 body, html{
 margin:0;
 padding:0;
+position: relative;
+width: 100%;
+background-color: #fff;
+}
+
+.container{
+    width:100%;
+}
+
+.contentBox {
+    width: 1200px;
+    margin: 0 auto;
+}
+
+footer{
+    padding: 90px 0;
 }
