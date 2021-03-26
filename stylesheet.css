@@ -28,10 +28,8 @@ footer{
     padding:90px 0;
 }
 
-.icon {
+.branchs .branch .icon {
     width:100px;
-    height:100px;
-    background:red;
 }
 
 .icon img {
