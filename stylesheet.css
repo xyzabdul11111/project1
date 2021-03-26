@@ -15,6 +15,36 @@ background-color: #fff;
     width:100%;
 }
 
+.spaceBetween {
+    justify-content: space-between;
+}
+
+.disFlexCenter {
+    display: flex!important;
+    align-items: center!important;
+}
+
 footer{
     padding:90px 0;
+}
+
+.branchs .branch .icon {
+    width: 30px;
+    border:1px solid;
+}
+
+.icon img {
+    width: 100%;
+    height: auto;
+}
+
+footer a:after {
+    content: "";
+    position: absolute;
+    left: 0;
+    top: 100%;
+    width: 0;
+    height: 1px;
+    background: #e3e3e3;
+    margin-top: 3px;
 }
