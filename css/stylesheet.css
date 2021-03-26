@@ -54,3 +54,8 @@ footer a{
 .marginLeft {
     margin-left: 30px!important;
 }
+
+.slimFont{
+    font-family:Roboto;
+    font-weight:100;
+}
