@@ -28,9 +28,10 @@ footer{
     padding:90px 0;
 }
 
-.branchs .branch .icon {
-    width: 30px;
-    border:1px solid;
+.icon {
+    width:100px;
+    height:100px;
+    background:red;
 }
 
 .icon img {
